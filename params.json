@@ -1,0 +1,6 @@
+{
+  "name": "Spring-study",
+  "tagline": "",
+  "body": "### 项目介绍.\r\n这个项目会记录个人在平时使用Spring的一些个人想法和笔记。\r\n\r\n### 2016-12-5 增加Spring Interceptor的笔记。\r\n注意是对Controller 方法执行之后的内容进行处理所涉及到的一些内容。\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
